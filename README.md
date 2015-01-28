@@ -1,4 +1,3 @@
-Topological-Order
+Simple algorithms
 =================
 
- Get a toporder of graph
